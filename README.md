@@ -5,7 +5,7 @@ Small Peer Team Lead
 ---
 
 ## Time Zone: 
-https://time.is/Montreal
+https://time.is/ET
 
 ## Typical Work Day Schedule:
 **Monday to Thursday:** 7:00 am to 4:00 pm
