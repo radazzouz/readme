@@ -8,17 +8,17 @@ Small Peer Team Lead
 https://time.is/EST
 
 ## Typical Work Day Schedule:
-**Monday to Thursday:** 7:00 am to 4:00 pm
+**Monday to Thursday:** 7:00 am to 4:00 pm\n
 **Friday:** 7:00 am to 2:30 pm
 
 ## Meetings Hours:
-**Monday to Thursday:** 8:00 am to 3:00 pm
+**Monday to Thursday:** 8:00 am to 3:00 pm\n
 **Friday:** 8:00 am to 1:30 pm
 
 ## Communication Preferences:
-**Email, GitHub, or Notion:** If my response can wait a few days.
-**Slack:** If you need me to respond within a business day.
-**Personal Cellphone:** If it's **very very** urgent.
+**Email, GitHub, or Notion:** If my response can wait a few days.\n
+**Slack:** If you need me to respond within a business day.\n
+**Personal Cellphone:** If it's **very very** urgent.\n
 
 
 ## Deep Work Times:
