@@ -1,6 +1,6 @@
 # About Me
 
-Rad Azzouz
+**Rad Azzouz**
 Small Peer Team Lead
 
 ## Time Zone: 
